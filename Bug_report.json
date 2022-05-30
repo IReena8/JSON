@@ -10,7 +10,7 @@
 	"Priority":"P1 High",
 	"Status":"New",
 	"Author":"Yaryza Iryna",
-	"Assigned To":"Ivanov Ivan"
+	"Assigned To":"Ivanov Ivan",
 	"Steps to Reproduce":["Open site https://redemo.zendo.cloud/site/login", "Enter email in the field Login or Email with valid data", 
 	"Enter password in field Password with valid data", "Press to the button Enter"],
 	"Actual result":"A warning message appeared: Invalid username or password, transition to the main page is not reproduced",
