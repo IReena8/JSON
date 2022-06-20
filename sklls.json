@@ -1,7 +1,6 @@
 {
- "Skills":
- 
- {"1":"Basic theory (what is testing, bug reports, documentation, types, methods, etc.) SDLC, STLC",
+ "Skills": {
+  "1":"Basic theory (what is testing, bug reports, documentation, types, methods, etc.) SDLC, STLC",
   "2":"Client-server architecture",
   "3":"HTTP request methods to the server",
   "4":"HTTP server response codes",
@@ -26,5 +25,6 @@
  "23":"Postgres database (installation, configuration and use)",
  "24":"Non-relational database Redis (installation, configuration, use)",
  "25":"Load Testing in Jmeter",
- "26":"Scrum Development Methodology"}
+ "26":"Scrum Development Methodology"
+ }
 }
